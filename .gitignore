@@ -27,6 +27,7 @@ local.properties
 ibm-web-bnd.xmi
 ibm-web-ext.xmi
 .factorypath
+.springBeans
 
 # NetBeans files #
 nbproject/
